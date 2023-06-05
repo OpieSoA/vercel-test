@@ -1,0 +1,20 @@
+Taekwondo GEBA new WEBSITE Info:
+
+Homepage section:
+
+** "BANNER 1" **
+
+Bienvenidos
+
+description: Escuela de Tae-Kwon-Do cuyas clases se dictan en GEBA, un espacio que nos permite desarrollar el Taekwondo en su aspecto marcial. Te esperamos!!!
+
+Class Hour: Clases de Adultos
+Lunes, Miercoles y Viernes: 13:00 a 14:00
+
+Martes y Jueves: 20:00 a 21:30
+
+** "BANNER 2" **
+
+extra info: Clases de Infantiles Sede Central: Martes y Jueves 19:00 a 20:00 
+
+Clases de Infantiles Sede San Martin: Miercoles y Viernes 18:00 a 19:00

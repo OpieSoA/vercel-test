@@ -1,0 +1,93 @@
+/* Global */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body { 
+    font-family: "Oswald", sans-serif;
+    background-color: #000000;
+    background-image: url(../css/images/arc-reactor-geba-hd-wallpaper-1920x1200-6921.png);
+    background-size: 1500px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    color: #1e272e;
+    color: #fff;
+    font-size: 16px;
+}
+
+ul {
+    list-style: none;
+}
+
+.container {
+    width: 90%;
+    margin: auto;
+}
+
+/* Navigation */
+.nav-main{
+    font-size: 17px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100px;
+    padding: 20px 0;
+}
+
+.nav-brand {
+    width: 100px;
+}
+
+/* Navbar Left */
+.nav-main ul {
+    display: flex;
+    font-size: 100px;
+}
+
+.nav-main ul li {
+    padding: 100px;
+}
+
+.nav-main ul.nav-menu {
+    flex: 1;
+    margin-left: 20px;
+}
+
+hr {
+    margin: 10px 0;
+}
+
+/* Responsive Button */
+.menu-btn {
+    cursor: pointer;
+    position: absolute;
+    top: 15px;
+    right: 30px;
+    z-index: 2;
+    display: none;
+}
+
+/* Responsive Button */
+.menu-btn {
+    cursor: pointer;
+    position: absolute;
+    top: 15px;
+    right: 30px;
+    z-index: 2;
+    display: none;
+}
+
+/* SHOWCASE */
+.showcase h1{
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+/* CARDS BANNER ONE */
+.card-banner h3{
+    margin-bottom: 10px;
+    text-align: center;
+}
